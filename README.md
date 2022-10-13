@@ -12,7 +12,7 @@
 
 Clone the project
 ```
-git clone https://github.com/Sthitadhee/lost-target-search.git
+git clone https://github.com/BrianSteel/Lost-Target-Search.git
 ```
 
 Create and run a virtual environment
